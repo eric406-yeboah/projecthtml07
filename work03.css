@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 50%;
+    height: 70vh;
+    margin-left: 18rem;
+    margin-top: 6rem;
+    border-radius: 5px;
+}
+
+#left{
+    background-image: url(./images/image-product-desktop.jpg);
+    float: left;
+    height: 70vh;
+    width: 50%;
+    background-size:311px ;
+    background-repeat: no-repeat;
+}
+
+#right{
+    float: right;
+    box-shadow: 0 4px 4px rgba(0,0,0,0.1),0 8px 16px rgba(0,0,0,0.1);
+    background: #fff;
+    padding: 1px;
+    max-width: 302px;
+    width: 140%;
+    height: 425px; 
+}
+
+#level{
+    margin-left: 10%;
+}
+
+#bold{
+    font-size: 180%;
+    color: green;
+}
+
+#top{
+    padding: 0px 20px;
+    
+    
+}
+#btn{
+    width: 200px;
+    height: 50px;
+    color: #fff;
+    background-color: green;
+    border-radius: 8px;
+    border-color: green;
+}

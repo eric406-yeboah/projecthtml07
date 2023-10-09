@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    margin-top: 4%;
+}
+
+
+#sign{
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px;
+    background-image: url(./images/illustration-hero.svg);
+    background-repeat: no-repeat;
+    height: 40%;
+    background-size: 310px;
+
+}
+
+
+#form_container{
+    box-shadow: 0 4px 4px rgba(0,0,0,0.1),0 8px 16px rgba(0,0,0,0.1);
+    justify-content: center;
+    border-color: black;
+    background: white;
+    border-radius: 20px;  
+    max-width: 310px;
+    padding-bottom: 80px;
+    height: 420px;
+    margin-left: 40%;
+
+
+}
+#style{
+    margin-left: 20%;
+    font-size: 80%;
+}
+
+#sub{
+    font-size: 70%;
+    margin-left: -5%;
+    text-decoration: none;
+}
+
+#box{
+    background-color: rgb(237, 237, 237);
+    padding-right: 20%;
+    border-radius: 15px;
+    height: 10vh;
+    width: 210px;
+    margin-left: 6%;
+    display: inline flex;
+}
+
+
+
+#image{
+    float: left;
+    background-image: url(./images/icon-music.svg);
+    height: 9vh;
+    background-repeat: no-repeat;
+    background-size: 40px;
+    background-position-x:8% ;
+    background-position-y:30% ;
+    padding: 10px;
+    
+}
+#bos{
+    display: inline ;
+    margin-right: 7rem;
+    padding-right: 20%;
+    padding-left: 32%;
+    
+
+}
+
+
+#right{
+   float: right;
+   margin-left: rem;
+   padding: 15px;
+   
+}
+
+#obo{
+    padding-left: 32%;
+    color: rgb(114, 109, 109);
+}
+
+#btn{
+    color: rgb(114, 109, 109); ;
+}
+
+#sir{
+    margin-left: 7%;
+    width: 272px;
+    height: 6vh;
+    border-radius: 12px;
+    background-color: blue;
+    border-color: blue;
+    color: white;
+}
+
+#log{
+    margin-left: 35%;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
